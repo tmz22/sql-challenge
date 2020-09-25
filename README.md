@@ -16,7 +16,7 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 ### Before You Begin
 
-1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing 
 
 2. Clone the new repository to your computer.
 
