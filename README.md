@@ -96,4 +96,4 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 ### Copyright
 
-Trilogy Education Services © 2020. All Rights Reserved
+Trilogy Education Services © 2020. All Rights Reserved.
